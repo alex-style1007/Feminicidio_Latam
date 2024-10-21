@@ -1,6 +1,6 @@
 # Análisis de Femicidios en América Latina
 
-Este proyecto realiza un análisis de datos sobre femicidios en América Latina a partir de un archivo Excel que contiene estadísticas. A continuación se describen las principales etapas del proceso:
+Este proyecto realiza un análisis de datos sobre femicidios en América Latina a partir de un archivo Excel descargado de [kaggle](https://www.kaggle.com/datasets/natalyreguerin/femicides-in-lac) que contiene estadísticas. A continuación se describen las principales etapas del proceso:
 
 ## 1. Carga de Datos
 - Se importa la biblioteca `pandas` para la manipulación de datos.
